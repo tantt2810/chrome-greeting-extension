@@ -1,4 +1,4 @@
-# greeting-extension v0.1.0
+# Tonio Chrome Extension
 ![alt text](./result/version_0.1.0.PNG)
 
 # Guideline
